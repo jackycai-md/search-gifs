@@ -1,0 +1,39 @@
+.page {
+  padding: 30px;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+.button {
+  height: 40px;
+  width: 100%;
+  margin-top: 8px;
+}
+
+.input {
+  max-width: 60;
+}
+
+.row {
+  align-items: flex-end;
+}
+
+.image {
+  width: 200px;
+  height: auto;
+  margin: 8px 0;
+}
+
+.contents {
+  margin: 16px 0;
+}
+
+.error {
+  color: red;
+}
+
+.hint {
+  color: grey;
+  margin-top: -8px;
+  font-size: 14px;
+}
